@@ -1,0 +1,1 @@
+install and configure TinyMCE Rich Text Editor component

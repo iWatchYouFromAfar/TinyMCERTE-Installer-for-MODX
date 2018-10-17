@@ -1,0 +1,37 @@
+{
+	"templates": [{
+		"title": "Some title 1",
+		"description": "Some desc 1",
+		"content": "My content"
+	}, {
+		"title": "Some title 2",
+		"description": "Some desc 2",
+		"url": "../templates/image.html"
+	}]
+	,
+	"codesample_languages": [{
+			"text": "HTML/XML", "value": "markup"
+		}, {
+			"text": "JavaScript", "value": "javascript"
+		}, {
+			"text": "CSS", "value": "css"
+		}, {
+			"text": "PHP", "value": "php"
+		}, {
+			"text": "Ruby", "value": "ruby"
+		}, {
+			"text": "Python", "value": "python"
+		}, {
+			"text": "Java", "value": "java"
+		}, {
+			"text": "C", "value": "c"
+		}, {
+			"text": "C#", "value": "csharp"
+		}, {
+			"text": "C++", "value": "cpp"
+	}]
+,
+	"spellchecker_languages": "Russian=ru,Ukrainian=uk,English=en",
+	"spellchecker_language": "ru",
+	"spellchecker_rpc_url": "//speller.yandex.net/services/tinyspell"
+}
