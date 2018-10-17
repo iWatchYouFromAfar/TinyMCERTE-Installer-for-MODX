@@ -1,4 +1,7 @@
-<h1><strong>TinyMCERTE Installer for MODX:</strong> <br>Автоматическая установка и настройка редактор TinyMCE Rich Text Editor для MODX.</h1>
+<h1><strong>TinyMCERTE Installer for MODX:</strong></h1>
+<br>
+<h5>Автоматическая установка и настройка редактор TinyMCE Rich Text Editor для MODX.</h5>
+
 <p>Автор билда: iWatchYouFromAfar <a href="https://urbancreations.ru/" target="_blank">Urban Creations</a><br/>
 
 <h2>Описание:</h2>
