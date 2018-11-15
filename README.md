@@ -7,7 +7,6 @@
 <p>TinyMCERTE Installer for MODX - это транспортный пакет, который устанавливает и настраивает компонент <a href="https://modx.com/extras/package/tinymcerichtexteditor" target="_blank">TinyMCE Rich Text Editor</a> для MODX.</p>
 
 <h2>Установка:</h2>
-<h4>Вариант 1:</h4>
 <ol>
 	<li>Скачать транспортный пакет tinymcerte-1.0.0-beta.transport.zip;</li>
 	<li>Пакет tinymcerte-1.0.0-beta.transport.zip поместить в ../core/packages/ и через установщик в MODX ищем пакет локально;</li>
