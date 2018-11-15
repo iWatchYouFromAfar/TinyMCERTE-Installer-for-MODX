@@ -15,11 +15,6 @@
 	<li>В папке ../files/TinyMCERTE-settings вы можете найти небольшой readme.txt и плагин typograf, который нужно поместить в папку плагинов редактора (об этом читайте в readme.txt). На этом все — редактор готов к использованию.</li>
 </ol>
 
-<h4>Вариант 2:</h4>
-<ol>
-  <li></li>
-</ol>
-
 <h2>Системные настройки в TinyMCE Rich Text Editor:</h2>
 <p>TinyMCERTE Installer for MODX сам установит нужные настройки для редактора.</p>
 
