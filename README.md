@@ -1,7 +1,7 @@
 <h1><strong>TinyMCERTE Installer for MODX:</strong></h1>
 <h5>Автоматическая установка и настройка редактор TinyMCE Rich Text Editor для MODX.</h5>
 
-<p>Автор: iWatchYouFromAfar <a href="https://urbancreations.ru/" target="_blank">Urban Creations</a><br/>
+<p>Автор: iWatchYouFromAfar<p/>
 
 <h2>Описание:</h2>
 <p>TinyMCERTE Installer for MODX - это транспортный пакет, который устанавливает и настраивает компонент <a href="https://modx.com/extras/package/tinymcerichtexteditor" target="_blank">TinyMCE Rich Text Editor</a> для MODX.</p>
